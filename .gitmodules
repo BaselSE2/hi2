@@ -1,0 +1,3 @@
+[submodule "wiki.wiki"]
+	path = wiki.wiki
+	url = git@github.com:BaselSE2/wiki.wiki
