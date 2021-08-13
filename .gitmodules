@@ -4,3 +4,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:BaselSE2/wiki.wiki
+[submodule "Potato"]
+	path = Potato
+	url = git@github.com:BaselSE2/wiki.git
